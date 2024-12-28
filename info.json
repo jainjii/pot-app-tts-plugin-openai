@@ -33,7 +33,13 @@
         "echo": "echo",
         "onyx": "onyx",
         "nova": "nova",
-        "shimmer": "shimmer"
+        "shimmer": "shimmer",
+        "zh-CN-XiaoxiaoNeural": "zh-CN-XiaoxiaoNeural",
+        "zh-CN-XiaoyiNeural": "zh-CN-XiaoyiNeural",
+        "zh-CN-YunjianNeural": "zh-CN-YunjianNeural",
+        "zh-CN-YunxiNeural": "zh-CN-YunxiNeural",
+        "zh-CN-YunxiaNeural": "zh-CN-YunxiaNeural",
+        "zh-CN-YunyangNeural": "zh-CN-YunyangNeural"
       }
     },
     {
